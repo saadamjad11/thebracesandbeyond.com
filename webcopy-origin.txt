@@ -1,0 +1,516 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://i.ytimg.com/vi/Q0hwql9r3WU/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\vi\Q0hwql9r3WU\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1643660527090-bea721ad71f8?fm=jpg&q=70&w=900&auto=format&fit=crop
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\photo-1643660527090-bea721ad71f8
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/about/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\about\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thebracesandbeyond.com/contact/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/faqs/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\faqs\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/feed/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thebracesandbeyond.com/our-doctors/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\our-doctors\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/our-services/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\our-services\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/patient-information/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\patient-information\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/smile-gallery/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\smile-gallery\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/terms-of-use/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\terms-of-use\index.htm
+Content Type: text/html
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/braces-beyond-booking/assets/bb-booking.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\braces-beyond-booking\assets\bb-booking.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/braces-beyond-booking/assets/bb-booking.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\braces-beyond-booking\assets\bb-booking.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.26.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.26.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.26.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.2
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription-view.js?ver=1786132410
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\hostinger-reach\frontend\dist\blocks\subscription-view.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription.css?ver=1786132410
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\plugins\hostinger-reach\frontend\dist\blocks\subscription.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.9
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\themes\hello-elementor\assets\css\header-footer.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.9
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\themes\hello-elementor\assets\css\reset.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.9
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\themes\hello-elementor\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbx3xcc4jyjr.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbx3xcc4jyjr.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbx6defj88r7.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbx6defj88r7.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbx77ac4mewc.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbx77ac4mewc.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxb892peptn.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxb892peptn.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxbsrbu3ffu.webp
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxbsrbu3ffu.webp
+Content Type: image/webp
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxcpcunzcf6.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxcpcunzcf6.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxdcsbrpr9v.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxdcsbrpr9v.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxgj265w3dx.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxgj265w3dx.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxmch8nw83g.webp
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxmch8nw83g.webp
+Content Type: image/webp
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxqrkvdppes.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxqrkvdppes.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxs5cgac8eb.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxs5cgac8eb.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxsprjn7tkf.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxsprjn7tkf.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxumbvw4ssc.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxumbvw4ssc.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/bbxwxpw5f7zq.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\bbxwxpw5f7zq.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Braces-Beyond-Team-scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Braces-Beyond-Team-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Brig-R-Dr.-Azhar-Ali-Bangash--scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Brig-R-Dr.-Azhar-Ali-Bangash--scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Brig.-R-Dr.-Azhar-Ali-Bangash-scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Brig.-R-Dr.-Azhar-Ali-Bangash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-180x180.png
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-180x180.png
+Content Type: image/png
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-192x192.png
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-192x192.png
+Content Type: image/png
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-32x32.png
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\cropped-ChatGPT-Image-Aug-14-2026-10_08_01-AM-32x32.png
+Content Type: image/png
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Dr.-Gulzar-Ali-Bukhari-scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Dr.-Gulzar-Ali-Bukhari-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Dr.-Muhammad-Idris-Raza-Ali-Bangash-scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Dr.-Muhammad-Idris-Raza-Ali-Bangash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/2026/08/Dr.-Sana-Tariq-scaled.jpg
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\2026\08\Dr.-Sana-Tariq-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6aa5ae9c8602f
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\base-desktop.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/base-mobile.css?ver=6aa5ae9c8602f
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\base-mobile.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-169.css?ver=1789243036
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-169.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-171.css?ver=1789243036
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-171.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-24.css?ver=1789243036
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-30.css?ver=1789243036
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-30.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-33.css?ver=1789310925
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-35.css?ver=1789562061
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-35.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-37.css?ver=1789287708
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-37.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-55.css?ver=1789309757
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-55.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-57.css?ver=1789274931
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-57.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-59.css?ver=1789561432
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-59.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-content/uploads/elementor/css/post-61.css?ver=1789303919
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-content\uploads\elementor\css\post-61.css
+Content Type: text/css
+
+Uri: https://thebracesandbeyond.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://thebracesandbeyond.com/wp-json/
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Ffaqs%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Ffaqs%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Four-doctors%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Four-doctors%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Four-services%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Four-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fpatient-information%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fpatient-information%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fsmile-gallery%2F
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthebracesandbeyond.com%2Fsmile-gallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/30
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\30
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/33
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/35
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\35
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/37
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\37
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/55
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\55
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/57
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\57
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/59
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\59
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/wp-json/wp/v2/pages/61
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\wp-json\wp\v2\pages\61
+Content Type: application/json
+
+Uri: https://thebracesandbeyond.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thebracesandbeyond.com\xmlrpc.php
+Content Type: text/xml
+
